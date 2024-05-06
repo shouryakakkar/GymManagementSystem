@@ -8,7 +8,7 @@ import java.sql.*;
 
 /**
  *
- * @author shour
+ * @author shourya
  */
 public class ConnectionProvider {
     public static Connection getCon()
