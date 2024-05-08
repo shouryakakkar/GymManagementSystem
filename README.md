@@ -2,4 +2,6 @@ Programmed an all-in-one Gym Management Software which allows gym trainers to ma
 
 **ADD THE .jar FILE IN YOUR PROJECT LIBRARY TO RUN THE CODE.**
 
+Suggestions & feedbacks are appreciated!
+
 A PROJECT BY SHOURYA KAKKAR ❤️❤️
